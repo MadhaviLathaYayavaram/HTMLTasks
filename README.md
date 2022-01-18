@@ -54,3 +54,32 @@
             </div>
      </body>
     </html>
+        
+        
+   
+ ## Task: Design a contact us form with all fields as required.
+        
+ https://github.com/MadhaviLathaYayavaram/ContactForm
+        
+ ## Task: Use certain HTML List elements to display the following in a HTML page.
+        
+ https://github.com/MadhaviLathaYayavaram/HTMLLists
+        
+ ## Task: Create an HTML page, which should contain all types of input elements.
+        
+ https://github.com/MadhaviLathaYayavaram/HTML-Inputs
+        
+ ## Task: Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
+        
+ https://github.com/MadhaviLathaYayavaram/SubscribeHTML
+        
+ ## Task: Use the table tag to design given image Click here.
+        
+ https://github.com/MadhaviLathaYayavaram/TableHTML
+        
+ 
+
+        
+        
+        
+        
